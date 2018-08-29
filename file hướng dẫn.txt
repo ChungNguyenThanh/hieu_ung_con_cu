@@ -1,0 +1,6 @@
+﻿Bước 1: tạo thư mục vportal trong thư mục
+\demo.bitrix24\bitrix\components\
+Bước 2: giải nén file chungnt_task_notification.zip và copy thư mục vivi_notify vào thư mục vportal trên
+Bước 3: copy đè file header.php vừa giải nén ở trên vào thư mục
+\demo.bitrix24\bitrix24\templates\bitrix24\
+Bước 4: đăng nhập bitrix24, tạo mới 1 user, gửi thông báo mới giữa 2 user => hiệu ứng con cú sẽ hiển thị
