@@ -3372,7 +3372,7 @@ top.BSBBW_notify.prototype = {
       }else{
         setTimeout(function(){
           chk = 1;
-        },10000);
+        },60000);
       }
     }
     if ((count_announcement.value > 0)&&(chk == 1)){
